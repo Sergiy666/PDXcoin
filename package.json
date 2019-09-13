@@ -1,0 +1,23 @@
+{
+  "name": "pdxcoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": " ",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.ciklum.net:Signal_Capital_ICO/signal_capital_ico.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bn.js": "^4.11.8",
+    "dotenv": "^8.0.0",
+    "truffle-hdwallet-provider": "^1.0.9"
+  }
+}
